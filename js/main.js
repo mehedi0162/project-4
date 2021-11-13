@@ -14,7 +14,7 @@ $(function(){
 
     var typed = new Typed('.type', {
         strings: [
-            'shamim Reza.',
+            'Mehedi.',
             'web designer.',
             'freelancer.',
             ],
